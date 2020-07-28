@@ -1,0 +1,6 @@
+framework module Pods_Contact_Monitoring_SDK {
+  umbrella header "Pods-Contact Monitoring SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
