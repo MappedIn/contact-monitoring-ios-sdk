@@ -1,4 +1,9 @@
-# Contact Monitoring API
+### This project is part of a larger contact monitoring solution
+- [Ingestion API](https://github.com/MappedIn/contact-monitoring-ingest-api)
+- [Dashboard](https://github.com/MappedIn/contact-monitoring-dashboard)
+- [iOS SDK (this project)](https://github.com/MappedIn/contact-monitoring-ios-sdk)
+
+# Contact Monitoring iOS SDK
 
 ## Requirements
 
